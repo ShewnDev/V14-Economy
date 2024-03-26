@@ -1,2 +1,3 @@
-# V14-Economy
-TR DE İLK VE ONUDA BİZ YAPTIK TIKLA VE İNDİR :)
+# V14-Econom Bot's
+
+Ne o aradığını bulamadın değilmi tr de ilk olanı beleşe verecek değilimya aslanım. Ücreti mukabilinde senin olabilir ücret bilgisi için "shewnexe"
