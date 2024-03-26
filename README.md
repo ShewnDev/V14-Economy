@@ -41,7 +41,7 @@ Terminalden "npm i" yazarak modülleri indiriniz
  <img width="450" alt="image" src="https://media.discordapp.net/attachments/1222250929789866024/1222251268341239838/image.png?ex=66158932&is=66031432&hm=3a75a0935cfe5946b4f0ff5c92829064f35879a99a882f736a00231d17d42d78&=&format=webp&quality=lossless&width=550&height=227">
  
 
- <img width="450" alt="image" src="[NULL](https://media.discordapp.net/attachments/1222250929789866024/1222251428559716403/image.png?ex=66158958&is=66031458&hm=b7ed5b970c89803350373647962d7f3f4b2ad5aa14c2297bd7b6ac952eb4e059&=&format=webp&quality=lossless&width=520&height=250)">
+ <img width="450" alt="image" src="https://media.discordapp.net/attachments/1222250929789866024/1222251428559716403/image.png?ex=66158958&is=66031458&hm=b7ed5b970c89803350373647962d7f3f4b2ad5aa14c2297bd7b6ac952eb4e059&=&format=webp&quality=lossless&width=520&height=250">
  
 
  <img width="450" alt="image" src="https://media.discordapp.net/attachments/1222250929789866024/1222251691412422726/image.png?ex=66158997&is=66031497&hm=899f75346d4dd55d48db4ecb47e289d3dccad5c0a65d4880e1bc1528eef85bb6&=&format=webp&quality=lossless&width=794&height=363">
